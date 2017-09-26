@@ -1,3 +1,3 @@
-FooCoin (FOO)
+AIFCoin (FOO)
 
-Blah, blah, blah.
+=) just for test
